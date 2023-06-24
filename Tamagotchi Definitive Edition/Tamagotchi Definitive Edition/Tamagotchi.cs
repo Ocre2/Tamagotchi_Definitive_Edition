@@ -63,7 +63,7 @@ namespace Tamagotchi_Definitive_Edition
             Aburrimiento -= 10;
             Hambre += 10;
             Sed += 10;
-            Energia -= 25;
+            Energia -= 20;
             if (Aburrimiento < 0)
             {
                 Aburrimiento = 0;
